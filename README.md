@@ -32,11 +32,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Refund é um sistema de solitação de  reembolso.
+Página de venda de patins.
 
 - [Visite o projeto online](https://renato007.github.io/Rocketseat-LP_patins_animado/)
 
 ## 💻 Pontos de aprendizagem
+* Personalização do shopping cart.
 
 
 ## :memo: Licença
