@@ -38,6 +38,7 @@ Página de venda de patins.
 
 ## 💻 Pontos de aprendizagem
 * Personalização do shopping cart.
+* Confecção de frase com palavra trocando infinitamente de forma cíclica entre as opções 
 
 
 ## :memo: Licença
